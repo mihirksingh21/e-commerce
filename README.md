@@ -5,11 +5,11 @@
 - Access to content like courses or premium articles
 
 # Use command 
--npm install -legacy-peer-deps
+- npm install -legacy-peer-deps
 - npm install --global yarn
 - yarn payload generate:graphQLSchema
 - yarn generate:types
-  use these last 2 command to generate graphq; if you make changes in payload-type.ts
+  (use these last 2 command to generate graphql if you make changes in payload-type.ts)
 
 
 Core features:
